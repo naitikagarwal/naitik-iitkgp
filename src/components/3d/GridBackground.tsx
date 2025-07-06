@@ -1,17 +1,18 @@
-import { useRef } from 'react'
-import { useFrame } from '@react-three/fiber'
-import { Grid } from '@react-three/drei'
-import * as THREE from 'three'
+import { useRef } from "react";
+import { useFrame } from "@react-three/fiber";
+import { Grid } from "@react-three/drei";
+import * as THREE from "three";
 
 export const GridBackground = () => {
-  const gridRef = useRef<THREE.Group>(null)
+  const gridRef = useRef<THREE.Group>(null);
 
   useFrame((state, delta) => {
     if (gridRef.current) {
-      gridRef.current.rotation.x = Math.sin(state.clock.elapsedTime * 0.2) * 0.1
-      gridRef.current.rotation.z += delta * 0.01
+      gridRef.current.rotation.x =
+        Math.sin(state.clock.elapsedTime * 0.2) * 0.1;
+      gridRef.current.rotation.z += delta * 0.01;
     }
-  })
+  });
 
   return (
     <group ref={gridRef}>
@@ -27,5 +28,5 @@ export const GridBackground = () => {
         fadeStrength={2}
       />
     </group>
-  )
-}
+  );
+};

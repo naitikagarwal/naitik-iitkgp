@@ -1,7 +1,7 @@
-import { Canvas } from '@react-three/fiber'
+import { Canvas } from "@react-three/fiber";
 // import { FloatingParticles } from './FloatingParticles'
-import { EffectComposer, Bloom } from '@react-three/postprocessing'
-import { GridBackground } from './GridBackground'
+import { EffectComposer, Bloom } from "@react-three/postprocessing";
+import { GridBackground } from "./GridBackground";
 
 export const BackgroundCanvas = () => {
   return (
@@ -14,5 +14,5 @@ export const BackgroundCanvas = () => {
         </EffectComposer>
       </Canvas>
     </div>
-  )
-}
+  );
+};

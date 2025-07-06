@@ -1,13 +1,13 @@
 // import { useState, useEffect } from 'react';
-import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
-import { Home } from './pages/Home';
-import { Projects } from './pages/Projects';
-import { Blog } from './pages/Blog';
-import { Resume } from './pages/Resume';
-import { BottomBar } from './components/BottomBar';
-import { ThemeProvider } from './components/theme-provider';
-import { FloatingActions } from './components/FloatingActions';
-import { BlogPost } from './pages/blog/[slug]';
+import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
+import { Home } from "./pages/Home";
+import { Projects } from "./pages/Projects";
+import { Blog } from "./pages/Blog";
+import { Resume } from "./pages/Resume";
+import { BottomBar } from "./components/BottomBar";
+import { ThemeProvider } from "./components/theme-provider";
+import { FloatingActions } from "./components/FloatingActions";
+import { BlogPost } from "./pages/blog/[slug]";
 
 function App() {
   return (
