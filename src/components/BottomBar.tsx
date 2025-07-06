@@ -14,7 +14,7 @@ export const BottomBar = () => {
       className="fixed bottom-4 left-1/2 transform -translate-x-1/2 
                     bg-white/10 dark:bg-black/10 backdrop-blur-lg 
                     rounded-full p-2 shadow-lg 
-                    border border-gray-200 dark:border-gray-800"
+                    border border-gray-200 dark:border-gray-800 z-10"
     >
       <div className="flex gap-4">
         {navItems.map(({ to, Icon, label }) => (
