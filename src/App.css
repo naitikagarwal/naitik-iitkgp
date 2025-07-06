@@ -1,0 +1,63 @@
+
+@keyframes logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  a:nth-of-type(2) .logo {
+    animation: logo-spin infinite 20s linear;
+  }
+}
+
+/* Add to your global.css or equivalent */
+.prose {
+  color: #292929;
+}
+
+.prose h2 {
+  font-size: 1.5rem;
+  font-weight: 700;
+  margin-top: 2.5rem;
+  margin-bottom: 1rem;
+}
+
+.prose p {
+  margin-bottom: 1.5rem;
+  line-height: 1.8;
+  font-size: 1.125rem;
+}
+
+.prose a {
+  color: #2962ff;
+  text-decoration: none;
+}
+
+.prose a:hover {
+  text-decoration: underline;
+}
+
+.prose img {
+  border-radius: 0.5rem;
+  margin: 2rem auto;
+}
+
+.prose blockquote {
+  border-left: 4px solid #2962ff;
+  padding-left: 1.5rem;
+  margin-left: 0;
+  font-style: italic;
+  color: #555;
+}
+
+.dark .prose {
+  color: #e0e0e0;
+}
+
+.dark .prose blockquote {
+  color: #bbb;
+}
