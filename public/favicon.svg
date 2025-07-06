@@ -1,0 +1,74 @@
+<svg
+    version="1.0"
+    xmlns="http://www.w3.org/2000/svg"
+    xmlns:xlink="http://www.w3.org/1999/xlink"
+    width="512"
+    height="512"
+    viewBox="0 0 512 512"
+  >
+    <svg id="global-svg-defs" version="1.0" xmlns="http://www.w3.org/2000/svg" width="0" height="0" viewBox="0 0 340.000000 250.000000" preserveAspectRatio="xMidYMid meet" color-interpolation-filters="sRGB" class="el-tooltip" style="margin: auto;" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <defs>
+      <pattern id="watermark" patternUnits="userSpaceOnUse" width="100%" height="100%">
+        <image xlink:href="https://www.logoai.com/img/watermark/LOGOAI-watermark.png" x="0" y="0" width="100%" height="100%">
+        </image>
+      </pattern>
+                    <linearGradient id="92" x1="0%" y1="0%" x2="100%" y2="0%">
+          <stop offset="0%" stop-color="#fa71cd"></stop>
+          <stop offset="100%" stop-color="#9b59b6"></stop>
+        </linearGradient>
+              <linearGradient id="93" x1="0%" y1="0%" x2="100%" y2="0%">
+          <stop offset="0%" stop-color="#f9d423"></stop>
+          <stop offset="100%" stop-color="#f83600"></stop>
+        </linearGradient>
+              <linearGradient id="94" x1="0%" y1="0%" x2="100%" y2="0%">
+          <stop offset="0%" stop-color="#0064d2"></stop>
+          <stop offset="100%" stop-color="#1cb0f6"></stop>
+        </linearGradient>
+              <linearGradient id="95" x1="0%" y1="0%" x2="100%" y2="0%">
+          <stop offset="0%" stop-color="#f00978"></stop>
+          <stop offset="100%" stop-color="#3f51b1"></stop>
+        </linearGradient>
+              <linearGradient id="96" x1="0%" y1="0%" x2="100%" y2="0%">
+          <stop offset="0%" stop-color="#7873f5"></stop>
+          <stop offset="100%" stop-color="#ec77ab"></stop>
+        </linearGradient>
+              <linearGradient id="97" x1="0%" y1="0%" x2="100%" y2="0%">
+          <stop offset="0%" stop-color="#f9d423"></stop>
+          <stop offset="100%" stop-color="#e14fad"></stop>
+        </linearGradient>
+              <linearGradient id="98" x1="0%" y1="0%" x2="100%" y2="0%">
+          <stop offset="0%" stop-color="#009efd"></stop>
+          <stop offset="100%" stop-color="#2af598"></stop>
+        </linearGradient>
+              <linearGradient id="99" x1="0%" y1="0%" x2="100%" y2="0%">
+          <stop offset="0%" stop-color="#ffcc00"></stop>
+          <stop offset="100%" stop-color="#00b140"></stop>
+        </linearGradient>
+              <linearGradient id="100" x1="0%" y1="0%" x2="100%" y2="0%">
+          <stop offset="0%" stop-color="#d51007"></stop>
+          <stop offset="100%" stop-color="#ff8177"></stop>
+        </linearGradient>
+              <linearGradient id="102" x1="0%" y1="0%" x2="100%" y2="0%">
+          <stop offset="0%" stop-color="#a2b6df"></stop>
+          <stop offset="100%" stop-color="#0c3483"></stop>
+        </linearGradient>
+              <linearGradient id="103" x1="0%" y1="0%" x2="100%" y2="0%">
+          <stop offset="0%" stop-color="#7ac5d8"></stop>
+          <stop offset="100%" stop-color="#eea2a2"></stop>
+        </linearGradient>
+              <linearGradient id="104" x1="0%" y1="0%" x2="100%" y2="0%">
+          <stop offset="0%" stop-color="#00ecbc"></stop>
+          <stop offset="100%" stop-color="#007adf"></stop>
+        </linearGradient>
+          </defs>
+  </svg>
+    <rect
+      x="0"
+      y="0"
+      width="100%"
+      height="100%"
+      fill="transparent"
+      fill-opacity="1"
+    ></rect>
+    <svg data-v-0dd9719b="" version="1.0" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="100%" height="100%" viewBox="0 0 100 100" preserveAspectRatio="xMidYMid meet" color-interpolation-filters="sRGB" style="margin: auto;"> <rect data-v-0dd9719b="" x="0" y="0" width="100%" height="100%" fill="#ffffff" fill-opacity="1" class="background" style="display: none;"/> <rect data-v-0dd9719b="" x="0" y="0" width="100%" height="100%" fill="url(#watermark)" fill-opacity="1" class="watermarklayer" style="display: none;"/> <g data-v-0dd9719b="" fill="#333" class="iconsvg-imagesvg"><rect fill="#333" fill-opacity="0" stroke-width="2" x="0" y="0" width="100" height="100" class="image-rect"/> <svg viewBox="0 0 60 54.0555150139193" x="0" y="0" width="100" height="100" class="image-svg-svg bn" style="overflow: visible;"><g hollow-target="iconBnOutline"><g mask="url(#e8129594-c85c-4421-aead-586121a44022)"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 65 58.56" style="overflow: visible;" width="60" height="54.0555150139193" x="0" y="0" filtersec="colorsb8941635142" filter="url(#s8u7_eUnS9SuNxvnINAJ9)"><g transform="scale(1, 1) skewX(0)"><path d="M32.5 58.56L65 0H0l32.5 58.56z" fill="#000000"/></g><defs><filter id="s8u7_eUnS9SuNxvnINAJ9"><feColorMatrix type="matrix" values="0 0 0 0 0.19921875  0 0 0 0 0.19921875  0 0 0 0 0.19921875  0 0 0 1 0"/></filter></defs></svg></g> <g filter="url(#colors9762636020)"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 50.544000000000004 51.120000000000005" width="45" height="40.54164" x="7.5" y="6.756937506959648" class="image-svg-letter"><path transform="translate(-2.4480000000000004 51.120000000000005)" d="M2.45 0L11.66 0C15.12 0 16.56-1.44 16.56-4.90L16.56-28.22C16.56-31.18 16.06-35.42 16.06-35.42L16.20-35.42C16.20-35.42 18.43-31.10 20.45-28.22L39.89 0L48.31 0L48.31-41.54C48.31-42.55 48.89-43.13 49.90-43.13L52.99-43.13L52.99-51.12L43.78-51.12C40.32-51.12 38.88-49.61 38.88-46.22L38.88-22.82C38.88-19.87 39.38-15.62 39.38-15.62L39.24-15.62C39.24-15.62 37.01-19.87 34.99-22.82L15.62-51.12L7.13-51.12L7.13-9.58C7.13-8.57 6.55-7.99 5.54-7.99L2.45-7.99Z"/></svg></g></g><mask id="e8129594-c85c-4421-aead-586121a44022"><g fill="white"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 65 58.56" style="overflow: visible;" width="60" height="54.0555150139193" x="0" y="0" filtersec="colorsb8941635142"><g transform="scale(1, 1) skewX(0)"><path d="M32.5 58.56L65 0H0l32.5 58.56z"/></g><defs/></svg></g> <g fill="black" filter="url(#007f62ae-df8d-495e-a2f8-90f529a5c3f8)"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 50.544000000000004 51.120000000000005" width="45" height="40.54164" x="7.5" y="6.756937506959648" class="image-svg-letter"><path transform="translate(-2.4480000000000004 51.120000000000005)" d="M2.45 0L11.66 0C15.12 0 16.56-1.44 16.56-4.90L16.56-28.22C16.56-31.18 16.06-35.42 16.06-35.42L16.20-35.42C16.20-35.42 18.43-31.10 20.45-28.22L39.89 0L48.31 0L48.31-41.54C48.31-42.55 48.89-43.13 49.90-43.13L52.99-43.13L52.99-51.12L43.78-51.12C40.32-51.12 38.88-49.61 38.88-46.22L38.88-22.82C38.88-19.87 39.38-15.62 39.38-15.62L39.24-15.62C39.24-15.62 37.01-19.87 34.99-22.82L15.62-51.12L7.13-51.12L7.13-9.58C7.13-8.57 6.55-7.99 5.54-7.99L2.45-7.99Z"/></svg></g><defs><filter id="007f62ae-df8d-495e-a2f8-90f529a5c3f8"><feGaussianBlur in="SourceGraphic" stdDeviation="1.26"/><feComponentTransfer><feFuncA type="discrete" tableValues="0 1 1 1 1 1 1 1 1 1 1 1 1 1 0"/></feComponentTransfer></filter></defs></mask></svg> <defs><filter id="colors9762636020"><feColorMatrix type="matrix" values="0 0 0 0 0.19921875  0 0 0 0 0.19921875  0 0 0 0 0.19921875  0 0 0 1 0" class="icon-fecolormatrix"/></filter> <filter id="colorsf1577356583"><feColorMatrix type="matrix" values="0 0 0 0 0.99609375  0 0 0 0 0.99609375  0 0 0 0 0.99609375  0 0 0 1 0" class="icon-fecolormatrix"/></filter> <filter id="colorsb8941635142"><feColorMatrix type="matrix" values="0 0 0 0 0  0 0 0 0 0  0 0 0 0 0  0 0 0 1 0" class="icon-fecolormatrix"/></filter></defs></g><defs v-gra="od"/></svg>
+  </svg>
